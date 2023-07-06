@@ -32,3 +32,32 @@ cursor: pointer;
 .box:hover{
 color: tomato;
 }
+
+.pic{
+width:200px;
+
+}
+.banner{
+display: flex;
+justify-content: space-around;
+align-items: center;
+height: 100vh;
+background-image: url(/sufyan-Kr6QMTQ1QTw-unsplash.jpg),linear-gradient(45deg,rgb(8,8,8),rgb(53,53,53));
+color: white;
+}
+
+.text{
+font-size: 55px;
+
+}
+.desc{
+margin-top: 15px;
+margin-bottom: 15px;
+
+}
+.button1{
+color:white;
+padding: 10px 10px;
+background-color: tomato;
+
+}
